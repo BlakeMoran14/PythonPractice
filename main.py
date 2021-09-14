@@ -1,15 +1,26 @@
-# Start of python file.
+import time
 
-# Main Code
-print("Hello World!")
-print("This is a testing python file...")
-print("Goodbye World!")
+# First Definition
 
-# Print first movie
-print('Maze Runner')
 
-# Print second movie
-print('Divergent')
+def topFiveMovies():
+    # First Movie
+    print("ThE LoREd Of THEWA FLWEIS")
 
-# Print third movie
-print('The Giver')
+    # Second Movie
+    print("ANother movie")
+
+    # Third Movie
+    print("ANother movie lol")
+
+
+topFiveMovies()
+
+def topFiveBooks():
+    print("Maze Runner")
+    print("One of us is lying")
+    print("The Giver")
+
+time.sleep(3)
+
+print("hello")
