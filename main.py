@@ -1,10 +1,8 @@
-import time
+"""import time
 import os
 
 def newLine():
     print("")
-
-# First Definition
 
 def topFiveMovies():
     # First Movie
@@ -38,4 +36,9 @@ printHello()
 newLine()
 printTest()
 newLine()
-echoTest()
+echoTest()"""
+
+def myNameIs(name):
+    print("My name is " + name)
+
+myNameIs("blake")

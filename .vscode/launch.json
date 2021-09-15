@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\expressjs project\\app.js",
+            "program": "${workspaceFolder}\\expressjsProject\\app.js",
             "runtimeExecutable": "C:/Users/818523/node/node"
         }
     ]
