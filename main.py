@@ -1,7 +1,10 @@
 import time
+import os
+
+def newLine():
+    print("")
 
 # First Definition
-
 
 def topFiveMovies():
     # First Movie
@@ -13,14 +16,26 @@ def topFiveMovies():
     # Third Movie
     print("ANother movie lol")
 
-
-topFiveMovies()
-
 def topFiveBooks():
     print("Maze Runner")
     print("One of us is lying")
     print("The Giver")
 
-time.sleep(3)
+def printHello():
+    print("Hello")
 
-print("hello")
+def printTest():
+    print("Test")
+
+def echoTest():
+    os.system("echo This is a CMD ECHO")
+
+topFiveMovies()
+newLine()
+topFiveBooks()
+newLine()
+printHello()
+newLine()
+printTest()
+newLine()
+echoTest()
