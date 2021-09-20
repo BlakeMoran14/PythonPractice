@@ -1,15 +1,11 @@
-.mainTitleBox {
-    padding-left: 5%;
-    padding-right: 5%;
-    background-color: black;
-    opacity: 50%;
-    border-radius: 10pt;
-}
-
 .mainTitle {
     text-align: center;
     padding-left: 5%;
     padding-right: 5%;
     font-size: 50pt;
     font-family: 'Ubuntu Mono', monospace;
+}
+
+body {
+    background-color: beige;
 }
